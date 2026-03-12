@@ -1,11 +1,11 @@
 function List() {
   let items = [
-    "Patatas Fritas",
-    "Patatas Bravas",
-    "Patatas Deluxe",
-    "Patatas Asadas",
-    "Patatas Gajo",
-    "Patatas"
+    "Crimsom Desert",
+    "Persona 5 Royal",
+    "Metal Gear Solid 3",
+    "Doom Eternal",
+    "Resident Evil 7",
+    "Nier:Automata"
   ];
 
   return (
